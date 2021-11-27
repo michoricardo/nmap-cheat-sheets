@@ -1,7 +1,7 @@
 # Fuente: 
-### **[Station x](http://https://www.stationx.net/nmap-cheat-sheet/ "Station x")**
+### **[Station x](https://www.stationx.net/nmap-cheat-sheet/ "Station x")**
 
-### Especificación de target:
+### Especificación de un objetivo:
 
 |  Switch | Ejemplo  | Descripción  |
 | ------------ | ------------ | ------------ |
